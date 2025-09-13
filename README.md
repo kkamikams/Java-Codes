@@ -1,10 +1,10 @@
 # Java-Codes
 
-Welcome to my **Java Code** repository! 🚀  
+Welcome to my **Java Code** repository! 
 
 This is a personal space where I will be storing, organizing, and improving my Java programs as I continue learning and exploring programming concepts. The main goal of this repository is to keep track of my progress, practice different coding techniques, and build a collection of solutions that I can revisit, study, and refine over time.  
 
-For me, this repository acts like a digital notebook — a place to document my learning journey in a way that is organized and accessible. Each code I add here represents a step forward in my growth. ✨  
+For me, this repository acts like a digital notebook — a place to document my learning journey in a way that is organized and accessible. Each code I add here represents a step forward in my growth.
 
 ---
 
